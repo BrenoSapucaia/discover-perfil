@@ -5,7 +5,7 @@ function toggleMode () {
     const img = document.querySelector("#profile img");
 
     if (html.classList.contains("light")) {
-        img.setAttribute("src", "./assets/perfilbreno1.png");
+        img.setAttribute("src", "./assets/assets/brenovieira2.png");
     } else {
         img.setAttribute("src", "./assets/relismocartoon.png");
     }
